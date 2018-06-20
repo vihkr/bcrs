@@ -1,0 +1,29 @@
+MODS;
+VCom maybe AISkill
+Veteran Mod? NO
+Improved Grenades
+Persians "Injured AI" script
+https://forums.bistudio.com/topic/196899-release-injured-ai-script/
+bloodlust mod
+
+=workshop=
+• SP/MP : AI Accuracy Fix - stops AI from getting so many perfect neck shots
+ɺɺ 2legs ɺɺ 
+• SP/MP : Improved Ammo A3 - bullets do more damage and penetrate more; no more flinching after many shots
+☠ -PSV- Grom ☠
+• SP/MP : BloodLust - blood splatters and gibs
+🕊♋ Liberalism Is Cancer 🕊♋
+• SP/MP : Low Grass(KHlowgrass) - lowered Grass for players to see easier through when prone/crouched
+👨 [KH]Jman 👨
+• SP/MP : MrSanchez' Head Gore Mod - Decapitation with high enough caliber weapon
+Ⓢ MrSanchez Ⓢ
+• SP/MP : Realistic Units Ragdoll - AI and players become ragdolled if taken enough large damage to severely injure, or from a nearby explosion.
+👨 ArtyomAbramov 👨
+• Clientside:Tao No Closure Sounds - removes the sound of weapons' bolt movement being nearly as loud as the gunshot itself Workshop(appears to be broken) ARMAHOLIC[armaholic.com]
+飛行士 Taosenai 飛行士
+
+=elsewhere=
+• SP/MP : DurgsVegetationFix[armaholic.com] - AI won't see through foliage
+🚬 durg78 🚬
+• SP/MP : Real Armor Mod - Fixes whacky penetration and armor values, damage inconsistency, vehicle hitpoints and reworks the infantry armor system...ditching the vanilla HP buff system BIStudio link[forums.bistudio.com] ARMAHOLIC[armaholic.com]
+👴 Olds & Bakerman 👴

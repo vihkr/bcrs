@@ -1,0 +1,136 @@
+Currently Released Factions (Faction Name for use with ALiVE included)
+
+BLUFOR:
+CFP_B_AFARMY Afghan Army
+CFP_B_AFPOLICE Afghan Police
+CFP_B_CZARMY_WDL Czech Army (divided into woodland)
+CFP_B_DEARMY_WDL Bundeswehr (divided into woodland)
+CFP_B_GBARMY_WDL British Army (divided into woodland)
+CFP_B_IQARMY Iraqi Army
+CFP_B_IQPOLICE Iraqi Police 
+CFP_B_KEARMY Kenyan Defense Force
+CFP_B_NAARMY Nigerian Armed Forces
+CFP_B_PESH Peshmerga (Iraqi Kurds)
+CFP_B_UGARMY Ugandan People's Defense Force
+CFP_B_USARMY_WDL US Army (divided into woodland, Delta Force overhauled and revamped)
+CFP_B_USCIA US CIA Ground Branch (Middle East)
+CFP_B_USMC_DES USMC (divided into Desert)
+CFP_B_YPG YPG (Syrian Kurds)
+
+CIVILIAN:
+CFP_C_AFG Afghan Civilians
+CFP_C_AFRCHRISTIAN African Christian Civilians
+CFP_C_AFRISLAMIC African Muslim Civilians
+CFP_C_ASIA Asian Civilians
+CFP_C_ME Middle Eastern Civilians (Iraqi/Syrian style)
+
+INDEPENDENT:
+CFP_I_ALNUSRA Al Nusra Front
+CFP_I_IS Islamic State 
+
+OPFOR:
+CFP_O_ALQAEDA Al Qaeda
+CFP_O_ALSHABAAB al-Shabaab
+CFP_O_BOKOHARAM Boko Haram
+CFP_O_HEZBOLLAH Hezbollah
+CFP_O_IS Islamic State
+CFP_O_RUARMY_DES Russian Armed Forces (divided into Desert)
+CFP_O_RUMVD Russian MVD
+CFP_O_SOREBEL Somali Pirates/Rebels
+CFP_O_SYARMY Syrian Arab Army
+CFP_O_TBAN Taliban
+
+Faction List (Note not all factions are released yet)
+
+OPFOR
+
+Abu Sayyaf
+Al-Qaeda
+Al-Qassam Brigades
+Al-Shabaab
+Boko Haram (Nigeria)
+Central African Rebels
+Colombian FARC Rebels
+Hezbollah
+Houthis (Yemen)
+IRA
+Iraqi Army (2003)
+Iran
+Islamic State
+Libyan National Army
+Mali Islamic Rebels
+Russian Ground Forces - split into various theater specific factions including Special Operations Forces
+Russian National Guard (formerly MVD)
+Russian Navy
+Somali Rebels
+South Thailand Insurgents
+Sudan Army
+Syrian Air Force
+Syrian Arab Army
+Taliban Insurgents
+Western Ultranationalists / Terrorist
+
+
+INDFOR
+
+Al-Nusra
+Afghani Militia
+Central African Republic Armed Forces
+Chechnya Militia
+Columbian Armed Forces
+Egyptian Armed Forces
+Free Syrian Army
+Islamic State
+Myanmar Armed Forces
+PMC: Blackwater
+PMC: ION - split into various theater specific factions
+Sudanese Rebels
+Tuareg Rebels
+Ulster Loyalist Paramilitaries (Ulster Volunteer Force)
+UNAMID (Niger, Chad, Cameroon etc)
+United Nations - split into various theater specific factions
+Yemen Armed Forces
+
+BLUFOR
+
+Afghan Police
+Afghanistan Army
+Armed Forces of the Czech Republic - split into theater factions
+British Army - split into theater factions
+Bundeswehr (KSK) - split into theater factions
+Iraqi Armed Forces
+Iraqi Police
+Israeli Defense Force
+Jordanian Armed Forces
+Kenyan Defence Forces
+Kurdish Peshmurga
+Libyan National Transitional Council / Government Forces
+Malian Government Forces
+Nigerian Armed Forces (Nigeria)
+Philippine Army
+Saudi Armed Forces
+Somali National Army
+Ugandan Defence Forces
+Ukraine Armed Forces
+US Army - split into theater factions (Delta Force enhanced)
+US CIA (Middle East) 
+US CIA (South America)
+US Marine Corps - split into theater factions
+YPG (Syrian Kurds)
+
+CIVILIAN
+
+African (Christian)
+African (Muslim)
+Asian
+International Committee of the Red Cross
+Afghani/Pakistani
+Middle Eastern (Iraqi/Syrian/Libyan)
+South American
+
+Customizing load-outs for CFP units in 3D Editor (3DEN)
+CFP uses technology to script and randomize loadouts of units - this provides a massive variety the units you'll see on the battlefield. In order to customize the loadouts of units in 3DEN editor, you will first need to disable the scripted loadout and/or the randomization. To do this simply:
+
+ Right-Click the unit in 3D Editor (3DEN)
+Select Attributes
+Check the box Override ALiVE ORBAT Loadout and/or Disable CFP Randomization as needed.
