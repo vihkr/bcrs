@@ -8,11 +8,11 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=11121;
+		nextID=11122;
 	};
 	class MarkerIDProvider
 	{
-		nextID=34;
+		nextID=35;
 	};
 	class LayerIndexProvider
 	{
@@ -634,7 +634,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=235;
+		items=236;
 		class Item0
 		{
 			dataType="Logic";
@@ -23646,6 +23646,17 @@ class Mission
 			};
 			id=11120;
 			atlOffset=0.017776489;
+		};
+		class Item235
+		{
+			dataType="Marker";
+			position[]={9421.7197,304.31799,8852.834};
+			name="marker_34";
+			text="WEAPONS CACHE";
+			type="mil_pickup";
+			colorName="ColorGUER";
+			id=11121;
+			atlOffset=-0.00021362305;
 		};
 	};
 	class Connections
