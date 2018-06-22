@@ -8,11 +8,11 @@ class EditorData
 	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=11122;
+		nextID=11124;
 	};
 	class MarkerIDProvider
 	{
-		nextID=35;
+		nextID=36;
 	};
 	class LayerIndexProvider
 	{
@@ -634,7 +634,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=236;
+		items=238;
 		class Item0
 		{
 			dataType="Logic";
@@ -23152,12 +23152,12 @@ class Mission
 		class Item225
 		{
 			dataType="Marker";
-			position[]={9569.9082,299.26999,8816.5576};
+			position[]={12198.675,96.50354,10654.861};
 			name="marker_30";
 			type="hd_objective";
 			colorName="ColorRed";
 			id=10620;
-			atlOffset=0.053741455;
+			atlOffset=-5.8768921;
 		};
 		class Item226
 		{
@@ -23659,6 +23659,33 @@ class Mission
 			colorName="ColorGUER";
 			id=11121;
 			atlOffset=-0.00021362305;
+		};
+		class Item236
+		{
+			dataType="Marker";
+			position[]={10225.619,235.87111,11465.327};
+			name="marker_35";
+			markerType="ELLIPSE";
+			type="ellipse";
+			colorName="ColorRed";
+			a=350;
+			b=700;
+			angle=1.8779999;
+			id=11122;
+		};
+		class Item237
+		{
+			dataType="Marker";
+			position[]={13256.933,82.416504,12908.993};
+			name="marker_36";
+			markerType="ELLIPSE";
+			type="ellipse";
+			colorName="ColorRed";
+			a=200;
+			b=400;
+			angle=62.274055;
+			id=11123;
+			atlOffset=-28.98893;
 		};
 	};
 	class Connections
