@@ -1,0 +1,20 @@
+CBA
+
+- CBA_fnc_globalExecute
+- CBA_fnc_globalSay3d
+- CBA_fnc_split
+- CBA_fnc_trim
+- CBA_fnc_addEventHandler
+- CBA_fnc_createCenter
+
+
+BIS
+
+- BIS_fnc_boundingCircle
+- BIS_fnc_relPos
+- BIS_fnc_dirTo
+- BIS_fnc_relativeDirTo
+- BIS_fnc_getPitchBank
+- BIS_fnc_setPitchBank
+- BIS_fnc_rotateVector2D
+- BIS_fnc_vectorAdd
