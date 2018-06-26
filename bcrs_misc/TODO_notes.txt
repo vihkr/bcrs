@@ -1,0 +1,31 @@
+NOTES:
+UH-1D on Skalisty is Bundeswehr Woodland
+
+civil war todo
+
+6 bombings in cherno see ANN vid
+add NAPA TAOR S but only IED TAOR N (they dont operate in TAOR S)
+TAOR N is Russian at the north end, mixed farther south change CIV placement
+TAOR S is Chernarus at the south end, mixed farther North
+
+change following script on Trigger in Chernogorsk
+0 = thisTrigger spawn { 
+  MGI_BuildEnv = _this; 
+  addMissionEventHandler ["BuildingChanged", { 
+    params ["_previousObject", "_newObject", "_isRuin"]; 
+    if (_previousObject in nearestTerrainObjects [MGI_BuildEnv,[],triggerArea MGI_BuildEnv select 0]) then { 
+      _previousObject setVariable ["MGI_destroyable",true] 
+    } 
+  }]; 
+  private _radius = triggerArea MGI_BuildEnv select 0; 
+  {_x setdamage ((random 1) max 0.9) } forEach (nearestTerrainObjects [MGI_BuildEnv,[],_radius]); 
+  uisleep 1;
+  //remove hideGlobal chnage to rubble or omit
+  {if (random 1 > 0.9) then {_x hideObjectGlobal true} } forEach (nearestTerrainObjects [MGI_BuildEnv,["HOUSE","BUSSTOP","TRANSMITTER","TOURISM", "WATERTOWER","POWER LINES"],_radius]) select {!(_x getVariable ["MGI_destroyable",false])}; 
+  for "_i" from 0 to (_radius/40)^2 do
+  //change crater style to marks on ground not eaqrth furrows
+  { 
+    _crater = selectRandom ["CraterLong","CraterLong_small"] createVehicle (MGI_BuildEnv getpos [ - _radius + (random _radius *2), - _radius + (random _radius *2) ]); 
+    _crater setDir random 360; 
+  }; 
+};
